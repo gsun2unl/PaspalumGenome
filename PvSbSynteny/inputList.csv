@@ -1,0 +1,3 @@
+genome,bed_file,cds_file,genome_file,lastz_file
+sorghum3,Sbicolor3.bed,Sbicolor3.cds,SbicolorV3.Chr.fa,Pvaginatum1.Sbicolor3.last
+Pv1_jcvi,Pvaginatum1.bed,Pvaginatum1.cds,Paspalum_vaginatum.mainGenome.fasta,Pvaginatum1.Sbicolor3.last
